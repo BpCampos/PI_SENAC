@@ -11,3 +11,7 @@
 ## Cadastro pessoa física
 
 ![interface cadastro pessoa fisica](./images/interfaces/cadastro_pessoa_fisica.png)
+
+## Cadastro de alunos
+
+![Cadastro_Aluno](https://github.com/user-attachments/assets/601453c9-8bdc-457e-80d7-ef90c94bf31d)
