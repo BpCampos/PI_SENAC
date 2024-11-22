@@ -15,3 +15,7 @@
 ## Cadastro de alunos
 
 ![Cadastro_Aluno](https://github.com/user-attachments/assets/601453c9-8bdc-457e-80d7-ef90c94bf31d)
+
+## Diagrama de classes
+
+![diagrama de classes](./images/diagrama_de_classes.jpg)
