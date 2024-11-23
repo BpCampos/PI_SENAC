@@ -12,6 +12,10 @@
 
 ![interface cadastro pessoa fisica](./images/interfaces/cadastro_pessoa_fisica.png)
 
+## Cadastro pessoa jurídica
+
+![Cadastro_Pessoa_Juridica](https://github.com/user-attachments/assets/b061e3e4-7c66-4e79-824e-0ffd1685c6ca)
+
 ## Cadastro de alunos
 
 ![Cadastro_Aluno](https://github.com/user-attachments/assets/c99e1fce-14eb-436e-9f99-ca0fb3a13c69)
