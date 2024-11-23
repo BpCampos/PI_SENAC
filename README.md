@@ -20,6 +20,10 @@
 
 ![interface cadastro professor](./images/interfaces/CadastroProfessores.png)
 
+## Cadastro fornecedores
+
+![Cadastro_Fonecedores](https://github.com/user-attachments/assets/c566c814-93c7-4d25-ac41-f3ea91e48c3a)
+
 ## Diagrama de classes
 
 ![diagrama de classes](./images/diagrama_de_classes.jpg)
