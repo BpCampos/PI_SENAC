@@ -13,9 +13,12 @@
 ![interface cadastro pessoa fisica](./images/interfaces/cadastro_pessoa_fisica.png)
 
 ## Cadastro de alunos
+
 ![Cadastro_Aluno](https://github.com/user-attachments/assets/c99e1fce-14eb-436e-9f99-ca0fb3a13c69)
 
+## Cadastro professor
 
+![interface cadastro professor](./images/interfaces/CadastroProfessores.png)
 
 ## Diagrama de classes
 
